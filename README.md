@@ -18,9 +18,9 @@ Inspired by the need for a personalized and AI-enhanced reading experience, Shel
 
 ## Tech Stack
 
-Frontend:
+Frontend: React, Tailwind CSS/Vanilla CSS
 
-Backend:
+Backend: Express - Node.js, PostgreSQL, Passport.js, Railway, OpenAI API with LangChain
 
 ## Features
 
